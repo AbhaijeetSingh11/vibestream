@@ -1,0 +1,16 @@
+{
+  "name": "properbackend",
+  "version": "1.0.0",
+  "description": "This is proper backend file structure for learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Abhaijeet Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
+  }
+}
